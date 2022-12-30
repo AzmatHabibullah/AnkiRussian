@@ -5,18 +5,21 @@ from tqdm import tqdm
 
 
 def create_database():
-    freq_list = ["1-1000", '1001-2000', '2001-3000', '3001-4000', '4001-5000']
-    base_URL = "https://en.wiktionary.org/wiki/Appendix:Russian_Frequency_lists/"
+    """
+    Download top 5000 words from Wiktionary and save to db folder
+    """
+    freq_lists = ["1-1000", '1001-2000', '2001-3000', '3001-4000', '4001-5000']
+    base_url = "https://en.wiktionary.org/wiki/Appendix:Russian_Frequency_lists/"
 
-    dfs = []
+    freq_dfs = []
 
     print("Creating database from Wiktionary")
 
-    for URL_end in tqdm(freq_list):
-        page = requests.get(base_URL + URL_end)
+    for URL_end in tqdm(freq_lists):
+        page = requests.get(base_url + URL_end)
         soup = BeautifulSoup(page.content, 'html.parser')
         with open(f"./db/table_{URL_end}_content.txt", "w", encoding='utf-8') as file:
-            file.write(soup.prettify())  # todo figure out why this isn't saving
+            file.write(soup.prettify())
 
         data = []
         table = soup.find('table', attrs={'class': 'wikitable'})
@@ -28,9 +31,9 @@ def create_database():
             cols = [ele.text.strip() for ele in cols]
             data.append([ele for ele in cols])  # Get rid of empty values using if cols
 
-        dfs.append(pd.DataFrame(data))
+        freq_dfs.append(pd.DataFrame(data))
 
-    df = pd.concat(dfs)
+    df = pd.concat(freq_dfs)
 
     df.columns = df.iloc[0].values
     df = df.drop(index=0, axis=0).reset_index(drop=True)
