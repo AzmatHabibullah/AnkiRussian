@@ -1,4 +1,4 @@
-from clean_database import get_using_api, RU_DICT, EN_DICT
+from ..get_card_data.fetch_card_data import get_using_api, RU_DICT, EN_DICT
 import json
 
 examples = {

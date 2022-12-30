@@ -1,29 +1,14 @@
 from wiktionaryparser import WiktionaryParser
 import os
-import json
 import pandas as pd
 from tqdm import tqdm
+from ..anki_utils import read_file
+
 
 home_directory = os.getcwd()
 
 
-def read_file(relative_dir):
-    if ".txt" in relative_dir:
-        with open(home_directory + relative_dir, 'r') as file:
-            return file
-    elif ".xlsx" in relative_dir or ".xls" in relative_dir:
-        return pd.read_excel(home_directory + relative_dir)
-    elif ".json" in relative_dir:
-        with open(home_directory + relative_dir, 'r') as file:
-            return json.load(file)
-    elif ".pkl" in relative_dir:
-        return pd.read_pickle(home_directory + relative_dir)
-    else:
-        with open(home_directory + relative_dir, 'r') as file:
-            return file
-
-
-def getCardData(words, parser):
+def get_card_data(words, parser):
     for i, row in tqdm(enumerate(words.values)):
         print(row[1])
         try:
@@ -44,7 +29,7 @@ def getCardData(words, parser):
     return words
 
 
-def createWiktionaryDeck():
+def create_wiktionary_deck():
     print("Creating Wiktionary deck")
     parser = WiktionaryParser()
     parser.set_default_language("russian")
@@ -53,13 +38,13 @@ def createWiktionaryDeck():
     words['english_short_definition'] = ''
     words['english_long_definition'] = ''
     words['english_examples'] = ''
-    words = getCardData(words, parser)
+    words = get_card_data(words, parser)
     pd.to_pickle(words, 'wiktionary_top10.pkl')
     print("Successfully created Wiktionary deck")
 
 
 if __name__ == "__main__":
-    createWiktionaryDeck()
+    create_wiktionary_deck()
 
 
 

@@ -1,4 +1,4 @@
-from utils import read_file
+from anki_utils import read_file
 from translate import get_translation
 
 
