@@ -1,0 +1,302 @@
+[
+    {
+        "Title": "\u0443\u043c\u043d\u044b\u0439",
+        "TitleMarkup": [
+            {
+                "IsItalics": false,
+                "IsAccent": true,
+                "Node": "Text",
+                "Text": "\u0443",
+                "IsOptional": false
+            },
+            {
+                "IsItalics": false,
+                "IsAccent": false,
+                "Node": "Text",
+                "Text": "\u043c\u043d\u044b\u0439",
+                "IsOptional": false
+            }
+        ],
+        "Dictionary": "LingvoUniversal (Ru-En)",
+        "ArticleId": "LingvoUniversal (Ru-En)__\u0443\u043c\u043d\u044b\u0439",
+        "Body": [
+            {
+                "Markup": [
+                    {
+                        "FileName": "18571.wav",
+                        "Node": "Sound",
+                        "Text": null,
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Markup": [
+                    {
+                        "FullText": "",
+                        "Node": "Abbrev",
+                        "Text": "\u043f\u0440\u0438\u043b.",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Markup": [
+                    {
+                        "IsItalics": false,
+                        "IsAccent": false,
+                        "Node": "Text",
+                        "Text": "clever, intelligent; ",
+                        "IsOptional": false
+                    },
+                    {
+                        "Markup": [
+                            {
+                                "IsItalics": true,
+                                "IsAccent": false,
+                                "Node": "Text",
+                                "Text": "(\u0440\u0430\u0437\u0443\u043c\u043d\u044b\u0439) ",
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "Comment",
+                        "Text": null,
+                        "IsOptional": false
+                    },
+                    {
+                        "IsItalics": false,
+                        "IsAccent": false,
+                        "Node": "Text",
+                        "Text": "sensible; smart, wise",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Type": null,
+                "Items": [
+                    {
+                        "Markup": [
+                            {
+                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                "ArticleId": "LingvoUniversal (Ru-En)__\u0443\u043c\u043d\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+                                "Node": "CardRef",
+                                "Text": "\u0443\u043c\u043d\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "CardRefItem",
+                        "Text": null,
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "CardRefs",
+                "Text": null,
+                "IsOptional": true
+            }
+        ]
+    },
+    {
+        "Title": "\u0443\u043c\u043d\u044b\u0439",
+        "TitleMarkup": [
+            {
+                "IsItalics": false,
+                "IsAccent": false,
+                "Node": "Text",
+                "Text": "\u0443\u043c\u043d\u044b\u0439",
+                "IsOptional": false
+            }
+        ],
+        "Dictionary": "Biology (Ru-En)",
+        "ArticleId": "Biology (Ru-En)__\u0443\u043c\u043d\u044b\u0439",
+        "Body": [
+            {
+                "Markup": [
+                    {
+                        "IsItalics": false,
+                        "IsAccent": false,
+                        "Node": "Text",
+                        "Text": "sagacious",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            }
+        ]
+    },
+    {
+        "Title": "\u0443\u043c\u043d\u044b\u0439",
+        "TitleMarkup": [
+            {
+                "IsItalics": false,
+                "IsAccent": false,
+                "Node": "Text",
+                "Text": "\u0443\u043c\u043d\u044b\u0439",
+                "IsOptional": false
+            }
+        ],
+        "Dictionary": "Psychology (Ru-En)",
+        "ArticleId": "Psychology (Ru-En)__\u0443\u043c\u043d\u044b\u0439",
+        "Body": [
+            {
+                "Markup": [
+                    {
+                        "FullText": "\u0438\u043c\u044f \u043f\u0440\u0438\u043b\u0430\u0433\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435",
+                        "Node": "Abbrev",
+                        "Text": "\u043f\u0440\u0438\u043b.",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Markup": [
+                    {
+                        "IsItalics": false,
+                        "IsAccent": false,
+                        "Node": "Text",
+                        "Text": "clever, intelligent",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            }
+        ]
+    },
+    {
+        "Title": "\u0443\u043c\u043d\u044b\u0439",
+        "TitleMarkup": [
+            {
+                "IsItalics": false,
+                "IsAccent": true,
+                "Node": "Text",
+                "Text": "\u0443",
+                "IsOptional": false
+            },
+            {
+                "IsItalics": false,
+                "IsAccent": false,
+                "Node": "Text",
+                "Text": "\u043c\u043d\u044b\u0439",
+                "IsOptional": false
+            }
+        ],
+        "Dictionary": "AmericanEnglish (Ru-En)",
+        "ArticleId": "AmericanEnglish (Ru-En)__\u0443\u043c\u043d\u044b\u0439",
+        "Body": [
+            {
+                "Type": 3,
+                "Items": [
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "intelligent, clever ",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Node": "Transcription",
+                                        "Text": "'klev\u0259r",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "ListItem",
+                        "Text": null,
+                        "IsOptional": false
+                    },
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "(",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": true,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u043e \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c\u0435",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": ") ",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "smart",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                            },
+                            {
+                                "Type": null,
+                                "Items": [
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "AmericanEnglish (Ru-En)",
+                                                "ArticleId": "AmericanEnglish (Ru-En)__\u044d\u0442\u043e \u0431\u044b\u043b \u0443\u043c\u043d\u044b\u0439 \u0448\u0430\u0433",
+                                                "Node": "CardRef",
+                                                "Text": "\u044d\u0442\u043e \u0431\u044b\u043b \u0443\u043c\u043d\u044b\u0439 \u0448\u0430\u0433",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "CardRefs",
+                                "Text": null,
+                                "IsOptional": true
+                            }
+                        ],
+                        "Node": "ListItem",
+                        "Text": null,
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "List",
+                "Text": null,
+                "IsOptional": false
+            }
+        ]
+    }
+]

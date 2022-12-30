@@ -1,0 +1,551 @@
+[
+    {
+        "Title": "\u0431\u0440\u0430\u0442",
+        "TitleMarkup": [
+            {
+                "IsItalics": false,
+                "IsAccent": false,
+                "Node": "Text",
+                "Text": "\u0431\u0440\u0430\u0442",
+                "IsOptional": false
+            }
+        ],
+        "Dictionary": "LingvoUniversal (Ru-En)",
+        "ArticleId": "LingvoUniversal (Ru-En)__\u0431\u0440\u0430\u0442",
+        "Body": [
+            {
+                "Markup": [
+                    {
+                        "FileName": "01076.wav",
+                        "Node": "Sound",
+                        "Text": null,
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Markup": [
+                    {
+                        "FullText": "",
+                        "Node": "Abbrev",
+                        "Text": "\u043c.\u0440.",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Type": 3,
+                "Items": [
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "brother",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                            },
+                            {
+                                "Type": null,
+                                "Items": [
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Markup": [
+                                                    {
+                                                        "IsItalics": false,
+                                                        "IsAccent": false,
+                                                        "Node": "Text",
+                                                        "Text": "\u043b\u044e\u0431\u044f\u0449\u0438\u0439 \u0431\u0440\u0430\u0442 ",
+                                                        "IsOptional": false
+                                                    },
+                                                    {
+                                                        "IsItalics": false,
+                                                        "IsAccent": false,
+                                                        "Node": "Text",
+                                                        "Text": "\u2014 affectionate brother",
+                                                        "IsOptional": false
+                                                    }
+                                                ],
+                                                "Node": "Example",
+                                                "Text": null,
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "ExampleItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Examples",
+                                "Text": null,
+                                "IsOptional": true
+                            },
+                            {
+                                "Type": null,
+                                "Items": [
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u0431\u0440\u0430\u0442\u044c\u044f-\u0431\u043b\u0438\u0437\u043d\u0435\u0446\u044b",
+                                                "Node": "CardRef",
+                                                "Text": "\u0431\u0440\u0430\u0442\u044c\u044f-\u0431\u043b\u0438\u0437\u043d\u0435\u0446\u044b",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u0434\u0432\u043e\u044e\u0440\u043e\u0434\u043d\u044b\u0439 \u0431\u0440\u0430\u0442",
+                                                "Node": "CardRef",
+                                                "Text": "\u0434\u0432\u043e\u044e\u0440\u043e\u0434\u043d\u044b\u0439 \u0431\u0440\u0430\u0442",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u043c\u043b\u0430\u0434\u0448\u0438\u0439 \u0431\u0440\u0430\u0442",
+                                                "Node": "CardRef",
+                                                "Text": "\u043c\u043b\u0430\u0434\u0448\u0438\u0439 \u0431\u0440\u0430\u0442",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u043c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u0431\u0440\u0430\u0442",
+                                                "Node": "CardRef",
+                                                "Text": "\u043c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u0431\u0440\u0430\u0442",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u043d\u0430\u0437\u0432\u0430\u043d\u044b\u0435 \u0431\u0440\u0430\u0442\u044c\u044f",
+                                                "Node": "CardRef",
+                                                "Text": "\u043d\u0430\u0437\u0432\u0430\u043d\u044b\u0435 \u0431\u0440\u0430\u0442\u044c\u044f",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u043d\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0431\u0440\u0430\u0442\u043e\u043c",
+                                                "Node": "CardRef",
+                                                "Text": "\u043d\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0431\u0440\u0430\u0442\u043e\u043c",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u0441\u0432\u043e\u0434\u043d\u044b\u0439 \u0431\u0440\u0430\u0442",
+                                                "Node": "CardRef",
+                                                "Text": "\u0441\u0432\u043e\u0434\u043d\u044b\u0439 \u0431\u0440\u0430\u0442",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u0441\u0442\u0430\u0440\u0448\u0438\u0439 \u0431\u0440\u0430\u0442",
+                                                "Node": "CardRef",
+                                                "Text": "\u0441\u0442\u0430\u0440\u0448\u0438\u0439 \u0431\u0440\u0430\u0442",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "CardRefs",
+                                "Text": null,
+                                "IsOptional": true
+                            }
+                        ],
+                        "Node": "ListItem",
+                        "Text": null,
+                        "IsOptional": false
+                    },
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "FullText": "",
+                                        "Node": "Abbrev",
+                                        "Text": "\u043f\u0435\u0440\u0435\u043d.",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                            },
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "brother, comrade",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                            },
+                            {
+                                "Type": null,
+                                "Items": [
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u043d\u0430 \u0431\u0440\u0430\u0442\u0430",
+                                                "Node": "CardRef",
+                                                "Text": "\u043d\u0430 \u0431\u0440\u0430\u0442\u0430",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u0441 \u0431\u0440\u0430\u0442\u0430",
+                                                "Node": "CardRef",
+                                                "Text": "\u0441 \u0431\u0440\u0430\u0442\u0430",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u0432\u0430\u0448 \u0431\u0440\u0430\u0442",
+                                                "Node": "CardRef",
+                                                "Text": "\u0432\u0430\u0448 \u0431\u0440\u0430\u0442",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u043d\u0430\u0448 \u0431\u0440\u0430\u0442",
+                                                "Node": "CardRef",
+                                                "Text": "\u043d\u0430\u0448 \u0431\u0440\u0430\u0442",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u0441\u0432\u043e\u0439 \u0431\u0440\u0430\u0442",
+                                                "Node": "CardRef",
+                                                "Text": "\u0441\u0432\u043e\u0439 \u0431\u0440\u0430\u0442",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "CardRefs",
+                                "Text": null,
+                                "IsOptional": true
+                            }
+                        ],
+                        "Node": "ListItem",
+                        "Text": null,
+                        "IsOptional": false
+                    },
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "Markup": [
+                                            {
+                                                "IsItalics": true,
+                                                "IsAccent": false,
+                                                "Node": "Text",
+                                                "Text": "(\u043a\u0430\u043a \u0444\u0430\u043c\u0438\u043b\u044c\u044f\u0440\u043d\u043e\u0435 \u0438\u043b\u0438 \u043f\u043e\u043a\u0440\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u0435 || as familiar or patronising term of address)",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "Comment",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                            },
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "old boy / man / chap; my lad / boy",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "ListItem",
+                        "Text": null,
+                        "IsOptional": false
+                    },
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "FullText": "",
+                                        "Node": "Abbrev",
+                                        "Text": "\u0446\u0435\u0440\u043a.",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                            },
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "lay brother",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                            },
+                            {
+                                "Type": null,
+                                "Items": [
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Markup": [
+                                                    {
+                                                        "IsItalics": false,
+                                                        "IsAccent": false,
+                                                        "Node": "Text",
+                                                        "Text": "\u0441\u0432\u043e\u0439 \u0441\u0432\u043e\u0435\u043c\u0443 \u043f\u043e\u043d\u0435\u0432\u043e\u043b\u0435 \u0431\u0440\u0430\u0442 ",
+                                                        "IsOptional": false
+                                                    },
+                                                    {
+                                                        "IsItalics": false,
+                                                        "IsAccent": false,
+                                                        "Node": "Text",
+                                                        "Text": "\u2014 blood is thicker than water; birds of a feather flock together",
+                                                        "IsOptional": false
+                                                    }
+                                                ],
+                                                "Node": "Example",
+                                                "Text": null,
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "ExampleItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Markup": [
+                                                    {
+                                                        "IsItalics": false,
+                                                        "IsAccent": false,
+                                                        "Node": "Text",
+                                                        "Text": "\u0431\u0440\u0430\u0442\u044c\u044f \u043d\u0430\u0448\u0438 \u043c\u0435\u043d\u044c\u0448\u0438\u0435 ",
+                                                        "IsOptional": false
+                                                    },
+                                                    {
+                                                        "IsItalics": false,
+                                                        "IsAccent": false,
+                                                        "Node": "Text",
+                                                        "Text": "\u2014 dumb animals",
+                                                        "IsOptional": false
+                                                    }
+                                                ],
+                                                "Node": "Example",
+                                                "Text": null,
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "ExampleItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Examples",
+                                "Text": null,
+                                "IsOptional": true
+                            },
+                            {
+                                "Type": null,
+                                "Items": [
+                                    {
+                                        "Markup": [
+                                            {
+                                                "Dictionary": "LingvoUniversal (Ru-En)",
+                                                "ArticleId": "LingvoUniversal (Ru-En)__\u043d\u0435 \u0434\u043b\u044f \u043d\u0430\u0448\u0435\u0433\u043e \u0431\u0440\u0430\u0442\u0430",
+                                                "Node": "CardRef",
+                                                "Text": "\u043d\u0435 \u0434\u043b\u044f \u043d\u0430\u0448\u0435\u0433\u043e \u0431\u0440\u0430\u0442\u0430",
+                                                "IsOptional": false
+                                            }
+                                        ],
+                                        "Node": "CardRefItem",
+                                        "Text": null,
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "CardRefs",
+                                "Text": null,
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "ListItem",
+                        "Text": null,
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "List",
+                "Text": null,
+                "IsOptional": false
+            }
+        ]
+    },
+    {
+        "Title": "\u0431\u0440\u0430\u0442",
+        "TitleMarkup": [
+            {
+                "IsItalics": false,
+                "IsAccent": false,
+                "Node": "Text",
+                "Text": "\u0431\u0440\u0430\u0442",
+                "IsOptional": false
+            }
+        ],
+        "Dictionary": "AmericanEnglish (Ru-En)",
+        "ArticleId": "AmericanEnglish (Ru-En)__\u0431\u0440\u0430\u0442",
+        "Body": [
+            {
+                "Markup": [
+                    {
+                        "FullText": "\u043c\u0443\u0436\u0441\u043a\u043e\u0439 \u0440\u043e\u0434",
+                        "Node": "Abbrev",
+                        "Text": "\u043c",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Markup": [
+                    {
+                        "IsItalics": false,
+                        "IsAccent": false,
+                        "Node": "Text",
+                        "Text": "brother ",
+                        "IsOptional": false
+                    },
+                    {
+                        "Node": "Transcription",
+                        "Text": "'br\u028c\u00f0\u0259r",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            }
+        ]
+    }
+]

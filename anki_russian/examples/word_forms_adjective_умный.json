@@ -1,0 +1,142 @@
+[
+    {
+        "Lexem": "\u0443\u043c\u043d\u044b\u0439",
+        "PartOfSpeech": "\u043f\u0440\u0438\u043b\u0430\u0433\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435",
+        "ParadigmJson": {
+            "Name": "\u0443\u043c\u043d\u044b\u0439",
+            "Grammar": "\u043f\u0440\u0438\u043b\u0430\u0433\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435, \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435",
+            "Groups": [
+                {
+                    "Name": "",
+                    "Table": [
+                        [
+                            {
+                                "Value": "",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u041f\u043e\u043b\u043d\u044b\u0435 \u0444\u043e\u0440\u043c\u044b",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u041a\u0440\u0430\u0442\u043a\u0438\u0435 \u0444\u043e\u0440\u043c\u044b",
+                                "Prefix": null,
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u041c\u0443\u0436. \u0440\u043e\u0434",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0443\u043c\u043d\u044b\u0439",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0443\u043c\u0451\u043d",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u0416\u0435\u043d. \u0440\u043e\u0434",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0443\u043c\u043d\u0430\u044f",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0443\u043c\u043d\u0430",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u0421\u0440. \u0440\u043e\u0434",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0443\u043c\u043d\u043e\u0435",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0443\u043c\u043d\u043e",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u041c\u043d. \u0447.",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0443\u043c\u043d\u044b\u0435",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0443\u043c\u043d\u044b",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ]
+                    ],
+                    "ColumnCount": 3,
+                    "RowCount": 5
+                },
+                {
+                    "Name": "",
+                    "Table": [
+                        [
+                            {
+                                "Value": "\u0421\u0440\u0430\u0432\u043d\u0438\u0442. \u0441\u0442.",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0443\u043c\u043d\u0435\u0435, \u0443\u043c\u043d\u0435\u0439",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ]
+                    ],
+                    "ColumnCount": 2,
+                    "RowCount": 1
+                },
+                {
+                    "Name": "",
+                    "Table": [
+                        [
+                            {
+                                "Value": "\u041f\u0440\u0435\u0432\u043e\u0441\u0445. \u0441\u0442.",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0443\u043c\u043d\u0435\u0439\u0448\u0438\u0439, \u0443\u043c\u043d\u0435\u0439\u0448\u0430\u044f, \u0443\u043c\u043d\u0435\u0439\u0448\u0435\u0435, \u0443\u043c\u043d\u0435\u0439\u0448\u0438\u0435",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ]
+                    ],
+                    "ColumnCount": 2,
+                    "RowCount": 1
+                }
+            ]
+        }
+    }
+]

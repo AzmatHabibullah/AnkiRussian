@@ -1,0 +1,29 @@
+[
+    {
+        "Lexem": "\u0442\u043e\u0436\u0435",
+        "PartOfSpeech": "\u0441\u043e\u044e\u0437",
+        "ParadigmJson": {
+            "Name": "\u0442\u043e\u0436\u0435",
+            "Grammar": "\u0441\u043e\u044e\u0437",
+            "Groups": []
+        }
+    },
+    {
+        "Lexem": "\u0442\u043e\u0436\u0435",
+        "PartOfSpeech": "\u0447\u0430\u0441\u0442\u0438\u0446\u0430",
+        "ParadigmJson": {
+            "Name": "\u0442\u043e\u0436\u0435",
+            "Grammar": "\u0447\u0430\u0441\u0442\u0438\u0446\u0430",
+            "Groups": []
+        }
+    },
+    {
+        "Lexem": "\u0442\u043e\u0436\u0435",
+        "PartOfSpeech": "\u043d\u0430\u0440\u0435\u0447\u0438\u0435",
+        "ParadigmJson": {
+            "Name": "\u0442\u043e\u0436\u0435",
+            "Grammar": "\u043d\u0430\u0440\u0435\u0447\u0438\u0435, \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435",
+            "Groups": []
+        }
+    }
+]

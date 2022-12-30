@@ -1,0 +1,22 @@
+List index out of range -> fix laters by not adding the others up (take just the first) - have a separate column for similar?
+бы
+можно
+далёкийдалеко
+русскийрусский
+нельзя
+быстрыйбыстро
+высокийвысоко
+короткийкоротко
+военныйвоенный
+медленныймедленно
+лёгкийлегко
+больнойбольной
+all 139 errors
+неужели
+ради
+нету
+
+'NoneType' object has no attribute 'find_all'
+первый
+каждый
+второй

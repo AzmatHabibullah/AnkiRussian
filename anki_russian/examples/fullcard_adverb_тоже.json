@@ -1,0 +1,419 @@
+[
+    {
+        "Title": "\u0442\u043e\u0436\u0435",
+        "TitleMarkup": [
+            {
+                "IsItalics": false,
+                "IsAccent": false,
+                "Node": "Text",
+                "Text": "\u0442",
+                "IsOptional": false
+            },
+            {
+                "IsItalics": false,
+                "IsAccent": true,
+                "Node": "Text",
+                "Text": "\u043e",
+                "IsOptional": false
+            },
+            {
+                "IsItalics": false,
+                "IsAccent": false,
+                "Node": "Text",
+                "Text": "\u0436\u0435",
+                "IsOptional": false
+            }
+        ],
+        "Dictionary": "LingvoUniversal (Ru-En)",
+        "ArticleId": "LingvoUniversal (Ru-En)__\u0442\u043e\u0436\u0435",
+        "Body": [
+            {
+                "Markup": [
+                    {
+                        "FileName": "17839.wav",
+                        "Node": "Sound",
+                        "Text": null,
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Markup": [
+                    {
+                        "FullText": "",
+                        "Node": "Abbrev",
+                        "Text": "\u043d\u0430\u0440\u0435\u0447.",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Markup": [
+                    {
+                        "IsItalics": false,
+                        "IsAccent": false,
+                        "Node": "Text",
+                        "Text": "also, as well, too",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Type": null,
+                "Items": [
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u043e\u043d \u0442\u043e\u0436\u0435 \u043f\u043e\u0439\u0434\u0435\u0442 ",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u2014 he is also going, he is going as well, he is going too",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "ExampleItem",
+                        "Text": null,
+                        "IsOptional": false
+                    },
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u044f \u0442\u0430\u043c \u0431\u044b\u043b, \u043c\u043e\u0439 \u0431\u0440\u0430\u0442 \u0442\u043e\u0436\u0435 ",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u2014 I was there, and my brother was there also",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "ExampleItem",
+                        "Text": null,
+                        "IsOptional": false
+                    },
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u044f \u0431\u0443\u0434\u0443 \u0442\u0430\u043c, \u043c\u043e\u0439 \u0431\u0440\u0430\u0442 \u0442\u043e\u0436\u0435 ",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u2014 I shall be there, and my brotherwill also be there",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "ExampleItem",
+                        "Text": null,
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Examples",
+                "Text": null,
+                "IsOptional": true
+            }
+        ]
+    },
+    {
+        "Title": "\u0442\u043e\u0436\u0435",
+        "TitleMarkup": [
+            {
+                "IsItalics": false,
+                "IsAccent": false,
+                "Node": "Text",
+                "Text": "\u0442",
+                "IsOptional": false
+            },
+            {
+                "IsItalics": false,
+                "IsAccent": true,
+                "Node": "Text",
+                "Text": "\u043e",
+                "IsOptional": false
+            },
+            {
+                "IsItalics": false,
+                "IsAccent": false,
+                "Node": "Text",
+                "Text": "\u0436\u0435",
+                "IsOptional": false
+            }
+        ],
+        "Dictionary": "AmericanEnglish (Ru-En)",
+        "ArticleId": "AmericanEnglish (Ru-En)__\u0442\u043e\u0436\u0435",
+        "Body": [
+            {
+                "Markup": [
+                    {
+                        "IsItalics": false,
+                        "IsAccent": false,
+                        "Node": "Text",
+                        "Text": "also, too",
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+            },
+            {
+                "Type": null,
+                "Items": [
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u044f \u0442",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": true,
+                                        "Node": "Text",
+                                        "Text": "\u043e",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u0436\u0435 \u043f\u043e\u0439\u0434",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": true,
+                                        "Node": "Text",
+                                        "Text": "\u0443 ",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u2014 I'll go (there) too",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "ExampleItem",
+                        "Text": null,
+                        "IsOptional": false
+                    },
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u043c\u043d\u0435 \u043d\u0440",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": true,
+                                        "Node": "Text",
+                                        "Text": "\u0430",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u0432\u0438\u0442\u0441\u044f ",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": true,
+                                        "Node": "Text",
+                                        "Text": "\u044d",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u0442\u0430 \u043a\u043d",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": true,
+                                        "Node": "Text",
+                                        "Text": "\u0438",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u0433\u0430. - \u041c\u043d\u0435 \u0442",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": true,
+                                        "Node": "Text",
+                                        "Text": "\u043e",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u0436\u0435 ",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u2014 I like this book. - So do I",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "ExampleItem",
+                        "Text": null,
+                        "IsOptional": false
+                    },
+                    {
+                        "Markup": [
+                            {
+                                "Markup": [
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u044f \u043d\u0435 \u0437\u043d",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": true,
+                                        "Node": "Text",
+                                        "Text": "\u0430",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u044e \u0435\u0433",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": true,
+                                        "Node": "Text",
+                                        "Text": "\u043e",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": ". - \u042f \u0442",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": true,
+                                        "Node": "Text",
+                                        "Text": "\u043e",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u0436\u0435 ",
+                                        "IsOptional": false
+                                    },
+                                    {
+                                        "IsItalics": false,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "\u2014 I don't know him. - Neither do I",
+                                        "IsOptional": false
+                                    }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                            }
+                        ],
+                        "Node": "ExampleItem",
+                        "Text": null,
+                        "IsOptional": false
+                    }
+                ],
+                "Node": "Examples",
+                "Text": null,
+                "IsOptional": true
+            }
+        ]
+    }
+]

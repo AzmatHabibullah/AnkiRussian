@@ -1,0 +1,273 @@
+[
+    {
+        "Lexem": "\u043f\u0435\u0440\u0432\u044b\u0439",
+        "PartOfSpeech": "\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435",
+        "ParadigmJson": {
+            "Name": "\u043f\u0435\u0440\u0432\u044b\u0439",
+            "Grammar": "\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435",
+            "Groups": [
+                {
+                    "Name": "",
+                    "Table": [
+                        [
+                            {
+                                "Value": "\u041c\u0443\u0436. \u0440.",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u0439",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u0416\u0435\u043d. \u0440.",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u0430\u044f",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u0421\u0440. \u0440.",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u0435",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u041c\u043d. \u0447.",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u0435",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ]
+                    ],
+                    "ColumnCount": 2,
+                    "RowCount": 4
+                }
+            ]
+        }
+    },
+    {
+        "Lexem": "\u043f\u0435\u0440\u0432\u044b\u0439",
+        "PartOfSpeech": "\u043f\u0440\u0438\u043b\u0430\u0433\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435",
+        "ParadigmJson": {
+            "Name": "\u043f\u0435\u0440\u0432\u044b\u0439",
+            "Grammar": "\u043f\u0440\u0438\u043b\u0430\u0433\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435, \u043f\u043e\u043b\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430, \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435",
+            "Groups": [
+                {
+                    "Name": "",
+                    "Table": [
+                        [
+                            {
+                                "Value": "",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u041c\u0443\u0436. \u0440\u043e\u0434",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0416\u0435\u043d. \u0440\u043e\u0434",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u0421\u0440. \u0440\u043e\u0434",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u041c\u043d. \u0447.",
+                                "Prefix": null,
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u0418\u043c\u0435\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u0439",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u0430\u044f",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u0435",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u0435",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u0420\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u0433\u043e",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u0439",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u0433\u043e",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u0445",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u0414\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u043c\u0443",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u0439",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u043c\u0443",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u043c",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u0412\u0438\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u0439, \u043f\u0435\u0440\u0432\u043e\u0433\u043e",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u0443\u044e",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u0435",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u0435, \u043f\u0435\u0440\u0432\u044b\u0445",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u0422\u0432\u043e\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u043c",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u0439, \u043f\u0435\u0440\u0432\u043e\u044e",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u043c",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u043c\u0438",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ],
+                        [
+                            {
+                                "Value": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u043d\u044b\u0439",
+                                "Prefix": null,
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u043c",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u0439",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u043e\u043c",
+                                "Prefix": "",
+                                "Row": null
+                            },
+                            {
+                                "Value": "\u043f\u0435\u0440\u0432\u044b\u0445",
+                                "Prefix": "",
+                                "Row": null
+                            }
+                        ]
+                    ],
+                    "ColumnCount": 5,
+                    "RowCount": 7
+                }
+            ]
+        }
+    }
+]

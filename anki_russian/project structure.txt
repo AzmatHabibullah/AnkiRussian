@@ -1,0 +1,30 @@
+anki generator
+- fetch raw data (download freq list)
+- clean raw data
+- get translations
+- anki formatter
+
+
+Clean raw data
+- Word
+- Type of word (noun, adj., etc.) -> if doesn't exist, use Wiktionary to fetch
+
+Translator
+options:
+- Wiktionary (short/full)
+- LingvoLive
+combine perfect and imperfect verbs (keep as similar)
+
+card formatter
+- add options for type of card
+
+schema:
+- [rank]
+- src_lang
+- tgt_lang
+- word_type
+- definition (inc. bullets)
+
+MVP:
+- nice formatting / CSS
+- tidy up project structure
