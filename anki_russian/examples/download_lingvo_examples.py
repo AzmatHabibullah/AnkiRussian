@@ -1,4 +1,4 @@
-from ..get_card_data.fetch_card_data import get_using_api, RU_DICT, EN_DICT
+from ..get_card_data.lingvo.lingvo_fetcher import get_from_lingvo_api, RU_DICT, EN_DICT
 import json
 
 examples = {
@@ -12,7 +12,7 @@ examples = {
 
 for key, value in examples.items():
     for request in ['fullcard', 'minicard', 'word_forms']:
-        json_example = get_using_api(value, request, source_dict=RU_DICT, target_dict=EN_DICT, lang=RU_DICT)
+        json_example = get_from_lingvo_api(value, request, source_dict=RU_DICT, target_dict=EN_DICT, lang=RU_DICT)
         with open(f'./examples/{request}_{key}_{value}.json', 'w') as file:
             try:
                 json.dump(json_example, file, indent=4)

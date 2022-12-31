@@ -8,24 +8,25 @@ from ..anki_utils import read_file
 home_directory = os.getcwd()
 
 
-def get_card_data(words, parser):
-    for i, row in tqdm(enumerate(words.values)):
+def get_card_data(words_df, parser):
+    for i, row in tqdm(enumerate(words_df.values)):
         print(row[1])
         try:
             wikidata = parser.fetch(row[1])
             long_definition = ''.join([f"{i + 1}: {x['text'][1]}; " for i, x in enumerate(wikidata[0]['definitions'][0:])])[:-2]
             short_definition = wikidata[0]['definitions'][0]['text'][1]
-            words.iloc[i]['wiktionary_examples'] = ''.join([f"{i + 1}: {x}; " for i, x in enumerate(wikidata[0]['definitions'][0]['examples'])])[:-2]
-            words.iloc[i][['wiktionary_short_definition', 'wiktionary_long_definition']] = [short_definition, long_definition]
+            words_df.iloc[i]['wiktionary_examples'] = ''.join([f"{i + 1}: {x}; " for i, x in enumerate(wikidata[0]['definitions'][0]['examples'])])[:-2]
+            words_df.iloc[i][['wiktionary_short_definition', 'wiktionary_long_definition']] = [short_definition, long_definition]
         except Exception as e:
             print(f'Error with {row[1]}: {e}')
-            words.iloc[i]['english'] = f'Error {e}'
+            words_df.iloc[i]['english'] = f'Error {e}'  # todo separate out where errors are
+        # todo tidy up
         """
         for no, defn in enumerate(definitions):
             output[f'en_{no}_partOfSpeech'] = defn['partOfSpeech']
             output[f'en_{no}_defn'] = defn['text']
         """
-    return words
+    return words_df
 
 
 def fetch_wiktionary_data(n=1000):
