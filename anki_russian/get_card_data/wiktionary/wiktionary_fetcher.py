@@ -13,7 +13,6 @@ def get_card_data(words, parser):
         print(row[1])
         try:
             wikidata = parser.fetch(row[1])
-            # todo: for definition in definitions, add to 'wiktionary_definition_x'
             long_definition = ''.join([f"{i + 1}: {x['text'][1]}; " for i, x in enumerate(wikidata[0]['definitions'][0:])])[:-2]
             short_definition = wikidata[0]['definitions'][0]['text'][1]
             words.iloc[i]['wiktionary_examples'] = ''.join([f"{i + 1}: {x}; " for i, x in enumerate(wikidata[0]['definitions'][0]['examples'])])[:-2]
