@@ -1,6 +1,7 @@
 import pandas as pd
 import requests
 from tqdm import tqdm
+import json
 
 RU_DICT = 1049
 EN_DICT = 1033
@@ -63,9 +64,37 @@ def get_card_data(words_df):
             lingvo_minicard = get_from_lingvo_api(text=row[1], request='minicard',
                                                   source_dict=RU_DICT, target_dict=EN_DICT)
             words_df.iloc[i]['lingvo_minicard_translation'] = lingvo_minicard['Translation']['Translation']
+
+            lingvo_fullcard = get_from_lingvo_api(text=row[1], request='fullcard',
+                                                  source_dict=RU_DICT, target_dict=EN_DICT)
+            # todo: work through errors and determine how to extract data generally
+            with open(f'examples/ordered/fullcard_{i}_{row[1]}', 'w') as file:
+                try:
+                    json.dump(lingvo_fullcard, file, indent=4)
+                except:
+                    raise Exception(f"Some error occurred with saving the file")
+            audio_name = lingvo_fullcard[0]['Body'][0]['Markup'][0]['FileName']
+            gender = lingvo_fullcard[0]['Body'][1]['Markup'][0]['Text']  # noun only
+            words_df.iloc[i][['lingvo_gender', 'lingvo_audio_filename']] = gender, audio_name
+            for defn_number, dict_entry in enumerate(lingvo_fullcard[0]['Body'][2]['Items']):
+                node = dict_entry['Markup'][0]['Markup'][0]['Node']
+                if 'IsItalics' in dict_entry['Markup'][0]['Markup'][0].keys():
+                    italics = dict_entry['Markup'][0]['Markup'][0]['IsItalics']
+                else:
+                    italics = dict_entry['Markup'][0]['Markup'][0]['Markup'][0]['IsItalics']
+                preamble = ''
+                if node == 'Comment' or node == 'Abbrev' or italics:
+                    preamble = dict_entry['Markup'][0]['Markup'][0]['Text']
+                    defn = dict_entry['Markup'][0]['Markup'][1]['Text']
+                elif node == 'Text':
+                    defn = dict_entry['Markup'][0]['Markup'][0]['Text']
+                else:
+                    print(f"Node: {node}, italics: {italics} \t {dict_entry}")
+                words_df.iloc[i][f'lingvo_defn_{defn_number+1}_preamble'] = preamble
+                words_df.iloc[i][f'lingvo_defn_{defn_number+1}_defn'] = defn
+
         except Exception as e:
             print(f'Error with {row[1]}: {e}')
-            words_df.iloc[i]['english'] = f'Error {e}'
     return words_df
 
 
@@ -74,11 +103,14 @@ def fetch_lingvo_data(n=1000):
     words_df = pd.read_pickle("./clean_data/combined_table.pkl")
     words_df = words_df[['Rank', 'russian']][:n]
     words_df['lingvo_minicard_translation'] = ''
-    # todo more new columns to come
+    words_df['lingvo_gender'] = ''
+    words_df['lingvo_audio_filename'] = ''
+    for defn_number in range(10):
+        for text_type in ['defn', 'preamble']:
+            words_df[f'lingvo_defn_{defn_number+1}_{text_type}'] = ''
     words_df = get_card_data(words_df)
     pd.to_pickle(words_df, f'words_with_lingvo_data_{len(words_df)}.pkl')
     print("Successfully fetched Lingvo data")
-    fetch_lingvo_data()
 
 
 if __name__ == "__main__":

@@ -10,5 +10,5 @@ if __name__ == "__main__":
     #create_database()
     #clean_data()
     #fetch_wiktionary_data(n=25)
-    fetch_lingvo_data(n=25)
+    fetch_lingvo_data(n=20)
     #generate_wiktionary_deck(n=25)
